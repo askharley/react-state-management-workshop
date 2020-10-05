@@ -1,5 +1,7 @@
 # React State Management Workshop
 
+> A workshop to go through how we can best manage the state of applications and how to approach various scenarios that require state management.
+
 ## Table of Contents
 * [🎯 Goals](#goals)
 * [⚡ Get Started](#get-started)
